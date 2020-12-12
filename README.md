@@ -1,1 +1,1 @@
-# APS-Python-para-Ciencia-de-Dados-Insper
+# APS-Python-para-Ciência-de-Dados-Insper
